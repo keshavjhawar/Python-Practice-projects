@@ -1,1 +1,1 @@
-# python_projects
+Basic projects developed while learning Python Language
